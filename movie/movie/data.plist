@@ -1,0 +1,994 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Puzzle</key>
+	<array>
+		<dict>
+			<key>_1</key>
+			<array>
+				<dict>
+					<key>Answer</key>
+					<string>Fight Club</string>
+					<key>Puzzle_Id</key>
+					<string>1</string>
+					<key>Hint</key>
+					<string> Brad Pitt </string>
+					<key>Credits</key>
+					<array>
+						<string>thesyemism</string>
+						<string>USArmyAfrica</string>
+				</array>
+				</dict>
+			</array>
+			<key>_11</key>
+			<array>
+				<dict>
+					<key>Answer</key>
+					<string>Rear Window</string>
+					<key>Puzzle_Id</key>
+					<string>11</string>
+					<key>Hint</key>
+					<string>Alfred Hitchcock</string>
+					<key>Credits</key>
+					<array>
+						<string>Jimmy_Joe</string>
+						<string>Saad.Akhtar</string>
+					</array>
+				</dict>
+			</array>
+			<key>_12</key>
+			<array>
+				<dict>
+					<key>Answer</key>
+					<string>Forest Gump</string>
+					<key>Puzzle_Id</key>
+					<string>12</string>
+					<key>Hint</key>
+					<string>Tom Hanks</string>
+					<key>Credits</key>
+					<array>
+						<string>Clearly Ambiguous</string>
+						<string>Roy Scribner</string>
+					</array>
+				</dict>
+			</array>
+			<key>_13</key>
+			<array>
+				<dict>
+					<key>Answer</key>
+					<string>The Matrix</string>
+					<key>Puzzle_Id</key>
+					<string>13</string>
+					<key>Hint</key>
+					<string>Keanu Reeves</string>
+					<key>Credits</key>
+					<array>
+						<string>Inha Leex Hale</string>
+						<string>NightRStar</string>
+					</array>
+				</dict>
+			</array>
+			<key>_14</key>
+			<array>
+				<dict>
+					<key>Answer</key>
+					<string>Psycho</string>
+					<key>Puzzle_Id</key>
+					<string>14</string>
+					<key>Hint</key>
+					<string>Alfred Hitchcock</string>
+					<key>Credits</key>
+					<array>
+						<string>DerrickT</string>
+						<string>striatic</string>
+					</array>
+				</dict>
+			</array>
+			<key>_16</key>
+			<array>
+				<dict>
+					<key>Answer</key>
+					<string>Full Metal Jacket</string>
+					<key>Puzzle_Id</key>
+					<string>16</string>
+					<key>Hint</key>
+					<string>Stanley Kubrick</string>
+					<key>Credits</key>
+					<array>
+						<string>ford</string>
+						<string>MAG</string>
+					</array>
+				</dict>
+			</array>
+			<key>_15</key>
+			<array>
+				<dict>
+					<key>Answer</key>
+					<string>City Lights</string>
+					<key>Puzzle_Id</key>
+					<string>15</string>
+					<key>Hint</key>
+					<string>Charlie Chaplin</string>
+					<key>Credits</key>
+					<array>
+						<string>DanBrady</string>
+						<string>nate steiner</string>
+					</array>
+				</dict>
+			</array>
+			<key>_17</key>
+			<array>
+				<dict>
+					<key>Answer</key>
+					<string>Paths of Glory</string>
+					<key>Puzzle_Id</key>
+					<string>17</string>
+					<key>Hint</key>
+					<string>Stanley Kubrick</string>
+					<key>Credits</key>
+					<array>
+						<string>eye of einstein</string>
+						<string>tuppus</string>
+					</array>
+				</dict>
+			</array>
+			<key>_18</key>
+			<array>
+				<dict>
+					<key>Answer</key>
+					<string>The Sting</string>
+					<key>Puzzle_Id</key>
+					<string>18</string>
+					<key>Hint</key>
+					<string>Paul Newman</string>
+					<key>Credits</key>
+					<array>
+						<string>BobMaclnnes</string>
+						<string>Furryscaly</string>
+					</array>
+				</dict>
+			</array>
+		
+			<key>_2</key>
+			<array>
+				<dict>
+					<key>Answer</key>
+					<string>Die Hard</string>
+					<key>Puzzle_Id</key>
+					<string>2</string>
+					<key>Hint</key>
+					<string>Bruce Willies</string>
+					<key>Credits</key>
+					<array>
+						<string>chefranden</string>
+						<string>kateweb</string>
+					</array>
+				</dict>
+			</array>
+
+			<key>_3</key>
+			<array>
+				<dict>
+					<key>Answer</key>
+					<string>Pulp Fiction</string>
+					<key>Puzzle_Id</key>
+					<string>3</string>
+					<key>Hint</key>
+					<string>Torontino</string>
+					<key>Credits</key>
+					<array>
+						<string>Enkonson</string>
+						<string>HeyPaul</string>
+					</array>
+				</dict>
+			</array>
+			<key>_4</key>
+			<array>
+				<dict>
+					<key>Answer</key>
+					<string>Dark Knight</string>
+					<key>Puzzle_Id</key>
+					<string>4</string>
+					<key>Hint</key>
+					<string>Heath Ledger</string>
+					<key>Credits</key>
+					<array>
+						<string>cordalth</string>
+						<string>furryscaly</string>
+					</array>
+				</dict>
+			</array>
+			<key>_5</key>
+			<array>
+				<dict>
+					<key>Answer</key>
+					<string>First Blood</string>
+					<key>Puzzle_Id</key>
+					<string>5</string>
+					<key>Hint</key>
+					<string> Silvester Stalin</string>
+					<key>Credits</key>
+					<array>
+						<string>brokenchopstick</string>
+						<string>CarbonNYC</string>
+					</array>
+				</dict>
+			</array>
+			<key>_6</key>
+			<array>
+				<dict>
+					<key>Answer</key>
+					<string>God Father</string>
+					<key>Puzzle_Id</key>
+					<string>6</string>
+					<key>Hint</key>
+					<string>Marlon Brando</string>
+					<key>Credits</key>
+					<array>
+						<string>giantrobot</string>
+						<string>MAMJODH</string>
+					</array>
+				</dict>
+			</array>
+			<key>_7</key>
+			<array>
+				<dict>
+					<key>Answer</key>
+					<string>Seven</string>
+					<key>Puzzle_Id</key>
+					<string>7</string>
+					<key>Hint</key>
+					<string>Morgan Freeman</string>
+					<key>Credits</key>
+					<array>
+						<string>Andy Hay</string>
+						<string>ell brown</string>
+					</array>
+				</dict>
+			</array>
+			<key>_8</key>
+			<array>
+				<dict>
+					<key>Answer</key>
+					<string>Star Wars</string>
+					<key>Puzzle_Id</key>
+					<string>8</string>
+					<key>Hint</key>
+					<string>George Lucas</string>
+					<key>Credits</key>
+					<array>
+						<string>familymwr</string>
+						<string>timparkinson</string>
+					</array>
+				</dict>
+			</array>
+			<key>_9</key>
+			<array>
+				<dict>
+					<key>Answer</key>
+					<string>Inception</string>
+					<key>Puzzle_Id</key>
+					<string>9</string>
+					<key>Hint</key>
+					<string> Leonardo Dicaprio </string>
+					<key>Credits</key>
+					<array>
+						<string>gadl</string>
+						<string>Schjelderup</string>
+					</array>
+				</dict>
+			</array>
+			<key>_10</key>
+			<array>
+				<dict>
+					<key>Answer</key>
+					<string>Seven Samurai</string>
+					<key>Puzzle_Id</key>
+					<string>10</string>
+					<key>Hint</key>
+					<string> Akira Kurasawa</string>
+					<key>Credits</key>
+					<array>
+						<string>stuttermonkey</string>
+						<string>wilhei55</string>
+					</array>
+				</dict>
+			</array>
+            
+             
+            <key>_19</key>
+			<array>
+				<dict>
+					<key>Answer</key>
+					<string>The Shining</string>
+					<key>Puzzle_Id</key>
+					<string>19</string>
+					<key>Hint</key>
+					<string>Jack Nicholson</string>
+					<key>Credits</key>
+					<array>
+						<string>rocketjim54</string>
+						<string>Ianr</string>
+					</array>
+				</dict>
+			</array>
+            <key>_20</key>
+			<array>
+				<dict>
+					<key>Answer</key>
+					<string>clockwork orange</string>
+					<key>Puzzle_Id</key>
+					<string>20</string>
+					<key>Hint</key>
+					<string>Malcolm McDowell</string>
+					<key>Credits</key>
+					<array>
+						<string>Joe Shlabotnik</string>
+						<string>undashes</string>
+					</array>
+				</dict>
+			</array>
+            <key>_21</key>
+			<array>
+				<dict>
+					<key>Answer</key>
+					<string>zodiac</string>
+					<key>Puzzle_Id</key>
+					<string>21</string>
+					<key>Hint</key>
+					<string>David Fincher</string>
+					<key>Credits</key>
+					<array>
+						<string>cliff1066</string>
+						<string>cliff1066</string>
+					</array>
+				</dict>
+			</array>
+            <key>_22</key>
+			<array>
+				<dict>
+					<key>Answer</key>
+					<string>city of god</string>
+					<key>Puzzle_Id</key>
+					<string>22</string>
+					<key>Hint</key>
+					<string>Brazilian Crime Drama</string>
+					<key>Credits</key>
+					<array>
+						<string>beggs</string>
+						<string>beggs</string>
+					</array>
+				</dict>
+			</array>
+            <key>_23</key>
+			<array>
+				<dict>
+					<key>Answer</key>
+					<string>The usual suspects</string>
+					<key>Puzzle_Id</key>
+					<string>23</string>
+					<key>Hint</key>
+					<string>Kevin spacey</string>
+					<key>Credits</key>
+					<array>
+						<string>randomlife</string>
+						<string>alvaroarriagada</string>
+					</array>
+				</dict>
+			</array>
+            <key>_24</key>
+			<array>
+				<dict>
+					<key>Answer</key>
+					<string>Memento</string>
+					<key>Puzzle_Id</key>
+					<string>24</string>
+					<key>Hint</key>
+					<string>Amnesia</string>
+					<key>Credits</key>
+					<array>
+						<string>bachmont</string>
+						<string>Dale Gillard</string>
+					</array>
+				</dict>
+			</array>
+            <key>_25</key>
+			<array>
+				<dict>
+					<key>Answer</key>
+					<string>Back to future</string>
+					<key>Puzzle_Id</key>
+					<string>25</string>
+					<key>Hint</key>
+					<string>Michael J Fox</string>
+					<key>Credits</key>
+					<array>
+						<string>neon.love</string>
+						<string>self</string>
+					</array>
+				</dict>
+			</array>
+            <key>_26</key>
+			<array>
+				<dict>
+					<key>Answer</key>
+					<string>North by northwest</string>
+					<key>Puzzle_Id</key>
+					<string>26</string>
+					<key>Hint</key>
+					<string>Cary Grant</string>
+					<key>Credits</key>
+					<array>
+						<string>self</string>
+						<string>self</string>
+					</array>
+				</dict>
+			</array>
+            <key>_27</key>
+			<array>
+				<dict>
+					<key>Answer</key>
+					<string>The Pianist</string>
+					<key>Puzzle_Id</key>
+					<string>27</string>
+					<key>Hint</key>
+					<string>Adrien Brody</string>
+					<key>Credits</key>
+					<array>
+						<string>moriza</string>
+						<string>woodleywonderworks</string>
+					</array>
+				</dict>
+			</array>
+            <key>_28</key>
+			<array>
+				<dict>
+					<key>Answer</key>
+					<string>The Departed</string>
+					<key>Puzzle_Id</key>
+					<string>28</string>
+					<key>Hint</key>
+					<string>Martin scorsese</string>
+					<key>Credits</key>
+					<array>
+						<string>indi.ca</string>
+						<string>blmurch</string>
+					</array>
+				</dict>
+			</array>
+            <key>_29</key>
+			<array>
+				<dict>
+					<key>Answer</key>
+					<string>Vertigo</string>
+					<key>Puzzle_Id</key>
+					<string>29</string>
+					<key>Hint</key>
+					<string>James Stewart</string>
+					<key>Credits</key>
+					<array>
+						<string>jyri</string>
+						<string>seier_seier</string>
+					</array>
+				</dict>
+			</array>
+            <key>_30</key>
+			<array>
+				<dict>
+					<key>Answer</key>
+					<string>Alien</string>
+					<key>Puzzle_Id</key>
+					<string>30</string>
+					<key>Hint</key>
+					<string>Ridley Scott</string>
+					<key>Credits</key>
+					<array>
+						<string>Librarian Avenger</string>
+						<string>OakleyOriginals</string>
+					</array>
+				</dict>
+			</array>
+            <key>_31</key>
+			<array>
+				<dict>
+					<key>Answer</key>
+					<string>Toy story</string>
+					<key>Puzzle_Id</key>
+					<string>31</string>
+					<key>Hint</key>
+					<string>Tom Hanks</string>
+					<key>Credits</key>
+					<array>
+						<string>alisdair</string>
+						<string>ZeNahla</string>
+					</array>
+				</dict>
+			</array>
+            <key>_32</key>
+			<array>
+				<dict>
+					<key>Answer</key>
+					<string>Up</string>
+					<key>Puzzle_Id</key>
+					<string>32</string>
+					<key>Hint</key>
+					<string>Pixar</string>
+					<key>Credits</key>
+					<array>
+						<string>Eli Hodapp</string>
+						<string>Soundfromwayout</string>
+					</array>
+				</dict>
+			</array>
+            <key>_33</key>
+			<array>
+				<dict>
+					<key>Answer</key>
+					<string>Taxi Driver</string>
+					<key>Puzzle_Id</key>
+					<string>33</string>
+					<key>Hint</key>
+					<string>Robert De Niro</string>
+					<key>Credits</key>
+					<array>
+						<string>Clemson</string>
+						<string>Moriza</string>
+					</array>
+				</dict>
+			</array>
+            <key>_34</key>
+			<array>
+				<dict>
+					<key>Answer</key>
+					<string>Gladiator</string>
+					<key>Puzzle_Id</key>
+					<string>34</string>
+					<key>Hint</key>
+					<string>Russell Crowe</string>
+					<key>Credits</key>
+					<array>
+						<string>Kevingessener</string>
+						<string>Trishhhh</string>
+					</array>
+				</dict>
+			</array>
+            <key>_35</key>
+			<array>
+				<dict>
+					<key>Answer</key>
+					<string>The Green Mile</string>
+					<key>Puzzle_Id</key>
+					<string>35</string>
+					<key>Hint</key>
+					<string>Tom Hanks</string>
+					<key>Credits</key>
+					<array>
+						<string>learly Ambiguous</string>
+						<string>Tim Green aka atoach</string>
+					</array>
+				</dict>
+			</array>
+
+<key>_36</key>
+<array>
+    <dict>
+        <key>Answer</key>
+        <string>The Great Dictator</string>
+        <key>Puzzle_Id</key>
+        <string>36</string>
+        <key>Hint</key>
+        <string>Charlie Chaplin</string>
+        <key>Credits</key>
+        <array>
+            <string>cliff1066</string>
+            <string>Ashley R. Photography</string>
+        </array>
+    </dict>
+</array>
+<key>_37</key>
+<array>
+    <dict>
+        <key>Answer</key>
+        <string>Reservoir Dogs</string>
+        <key>Puzzle_Id</key>
+        <string>37</string>
+        <key>Hint</key>
+        <string>Quentin Tarantino</string>
+        <key>Credits</key>
+        <array>
+            <string>Mel B</string>
+            <string>pwrgrl09bc</string>
+        </array>
+    </dict>
+</array>
+<key>_38</key>
+<array>
+    <dict>
+        <key>Answer</key>
+        <string>Lion King</string>
+        <key>Puzzle_Id</key>
+        <string>38</string>
+        <key>Hint</key>
+        <string>Walt Disney</string>
+        <key>Credits</key>
+        <array>
+            <string>Barbara L.Hanson</string>
+            <string>Torres_Photography</string>
+        </array>
+    </dict>
+</array>
+
+<key>_39</key>
+<array>
+    <dict>
+        <key>Answer</key>
+        <string>Kill Bill</string>
+        <key>Puzzle_Id</key>
+        <string>39</string>
+        <key>Hint</key>
+        <string>uma thurman</string>
+        <key>Credits</key>
+        <array>
+            <string>satanoid</string>
+            <string>Domain barnyard</string>
+        </array>
+    </dict>
+</array>
+
+<key>_40</key>
+<array>
+    <dict>
+        <key>Answer</key>
+        <string>Warrior</string>
+        <key>Puzzle_Id</key>
+        <string>40</string>
+        <key>Hint</key>
+        <string>Tom Hardy</string>
+        <key>Credits</key>
+        <array>
+            <string>pasukaru76</string>
+            <string>JohnGoode</string>
+        </array>
+    </dict>
+</array>
+<key>_41</key>
+<array>
+    <dict>
+        <key>Answer</key>
+        <string>High Noon</string>
+        <key>Puzzle_Id</key>
+        <string>41</string>
+        <key>Hint</key>
+        <string>Gary Cooper</string>
+        <key>Credits</key>
+        <array>
+            <string>The Great Gray skwid</string>
+            <string>milesgehm_</string>
+        </array>
+    </dict>
+</array>
+
+<key>_42</key>
+<array>
+    <dict>
+        <key>Answer</key>
+        <string>Hotel Rwanda</string>
+        <key>Puzzle_Id</key>
+        <string>42</string>
+        <key>Hint</key>
+        <string>Terry George</string>
+        <key>Credits</key>
+        <array>
+            <string>taiyofj</string>
+            <string>loufi</string>
+        </array>
+    </dict>
+</array>
+<key>_43</key>
+<array>
+    <dict>
+        <key>Answer</key>
+        <string>Gone with wind</string>
+        <key>Puzzle_Id</key>
+        <string>43</string>
+        <key>Hint</key>
+        <string>victor fleming</string>
+        <key>Credits</key>
+        <array>
+            <string>DieselDemon</string>
+            <string>kevinzim</string>
+        </array>
+    </dict>
+</array>
+
+<key>_44</key>
+<array>
+    <dict>
+        <key>Answer</key>
+        <string>The Avengers</string>
+        <key>Puzzle_Id</key>
+        <string>44</string>
+        <key>Hint</key>
+        <string>Joss Whedon</string>
+        <key>Credits</key>
+        <array>
+            <string>Loren Javier</string>
+            <string>Brett Jordan</string>
+        </array>
+    </dict>
+</array>
+<key>_45</key>
+<array>
+    <dict>
+        <key>Answer</key>
+        <string>Finding Nemo</string>
+        <key>Puzzle_Id</key>
+        <string>45</string>
+        <key>Hint</key>
+        <string>Andrew Stanton</string>
+        <key>Credits</key>
+        <array>
+            <string>hyku</string>
+            <string>woodleywonderworks</string>
+        </array>
+    </dict>
+</array>
+<key>_46</key>
+<array>
+    <dict>
+        <key>Answer</key>
+        <string>DialM for Murder</string>
+        <key>Puzzle_Id</key>
+        <string>46</string>
+        <key>Hint</key>
+        <string>Grace Kelly</string>
+        <key>Credits</key>
+        <array>
+            <string>marysuephotoeth</string>
+            <string>psd</string>
+        </array>
+    </dict>
+</array>
+
+<key>_47</key>
+<array>
+    <dict>
+        <key>Answer</key>
+        <string>Network</string>
+        <key>Puzzle_Id</key>
+        <string>47</string>
+        <key>Hint</key>
+        <string>Peter Finch</string>
+        <key>Credits</key>
+        <array>
+            <string>AlphsGeek</string>
+            <string>aaronparecki</string>
+        </array>
+    </dict>
+</array>
+
+<key>_48</key>
+<array>
+    <dict>
+        <key>Answer</key>
+        <string>The Kings Speech</string>
+        <key>Puzzle_Id</key>
+        <string>48</string>
+        <key>Hint</key>
+        <string>Colin Firth</string>
+        <key>Credits</key>
+        <array>
+            <string>Mike Licht, NotionsCapital.com</string>
+            <string>Jamarmstrong</string>
+        </array>
+    </dict>
+</array>
+
+<key>_49</key>
+<array>
+    <dict>
+        <key>Answer</key>
+        <string>The killing</string>
+        <key>Puzzle_Id</key>
+        <string>49</string>
+        <key>Hint</key>
+        <string>Sterling Hayden</string>
+        <key>Credits</key>
+        <array>
+            <string>kodomut</string>
+            <string>emerald isle druid</string>
+        </array>
+    </dict>
+</array>
+
+<key>_50</key>
+<array>
+    <dict>
+        <key>Answer</key>
+        <string>Black Swan</string>
+        <key>Puzzle_Id</key>
+        <string>50</string>
+        <key>Hint</key>
+        <string> Mila Kunis</string>
+        <key>Credits</key>
+        <array>
+            <string>aloshbennett</string>
+            <string>Flavio~</string>
+        </array>
+    </dict>
+</array>
+
+<key>_51</key>
+<array>
+    <dict>
+        <key>Answer</key>
+        <string>beautiful mind</string>
+        <key>Puzzle_Id</key>
+        <string>51</string>
+        <key>Hint</key>
+        <string> Ron Howard</string>
+        <key>Credits</key>
+        <array>
+            <string>pinkpucca</string>
+            <string>jorgemejia_1</string>
+        </array>
+    </dict>
+</array>
+
+<key>_52</key>
+<array>
+    <dict>
+        <key>Answer</key>
+        <string>Star Trek</string>
+        <key>Puzzle_Id</key>
+        <string>52</string>
+        <key>Hint</key>
+        <string>Chris Pine</string>
+        <key>Credits</key>
+        <array>
+            <string>Cosmos Photography</string>
+            <string>Stig Nygaard</string>
+        </array>
+    </dict>
+</array>
+
+<key>_53</key>
+<array>
+    <dict>
+        <key>Answer</key>
+        <string>The Artist</string>
+        <key>Puzzle_Id</key>
+        <string>53</string>
+        <key>Hint</key>
+        <string>Jean Dujardin</string>
+        <key>Credits</key>
+        <array>
+            <string>C.P.Storm</string>
+            <string>moriza</string>
+        </array>
+    </dict>
+</array>
+
+
+<key>_54</key>
+<array>
+    <dict>
+        <key>Answer</key>
+        <string>12 Monkeys</string>
+        <key>Puzzle_Id</key>
+        <string>54</string>
+        <key>Hint</key>
+        <string>Terry Gilliam</string>
+        <key>Credits</key>
+        <array>
+            <string>Chiara Marra</string>
+            <string>observing life</string>
+        </array>
+    </dict>
+</array>
+
+<key>_55</key>
+<array>
+    <dict>
+        <key>Answer</key>
+        <string>Princess Bride</string>
+        <key>Puzzle_Id</key>
+        <string>55</string>
+        <key>Hint</key>
+        <string>Rob Reiner</string>
+        <key>Credits</key>
+        <array>
+            <string>Cherrylynx</string>
+            <string>Shoshanah</string>
+        </array>
+    </dict>
+</array>
+
+<key>_56</key>
+<array>
+    <dict>
+        <key>Answer</key>
+        <string>The Hunt</string>
+        <key>Puzzle_Id</key>
+        <string>56</string>
+        <key>Hint</key>
+        <string>Mads Mikkelsen</string>
+        <key>Credits</key>
+        <array>
+            <string>jurvetson</string>
+            <string>REDFISH1223</string>
+        </array>
+    </dict>
+</array>
+<key>_57</key>
+<array>
+    <dict>
+        <key>Answer</key>
+        <string>Rain Man</string>
+        <key>Puzzle_Id</key>
+        <string>57</string>
+        <key>Hint</key>
+        <string>Barry Levinson</string>
+        <key>Credits</key>
+        <array>
+            <string>erix!</string>
+            <string>Joe Shlabotnik</string>
+        </array>
+    </dict>
+</array>
+<key>_58</key>
+<array>
+    <dict>
+        <key>Answer</key>
+        <string>Roman Holiday</string>
+        <key>Puzzle_Id</key>
+        <string>58</string>
+        <key>Hint</key>
+        <string>Audrey Hepburn</string>
+        <key>Credits</key>
+        <array>
+            <string>James Jordan</string>
+            <string>ell brown</string>
+        </array>
+    </dict>
+</array>
+<key>_59</key>
+<array>
+    <dict>
+        <key>Answer</key>
+        <string>Dog Day Afternoon</string>
+        <key>Puzzle_Id</key>
+        <string>59</string>
+        <key>Hint</key>
+        <string>Sidney Lumet</string>
+        <key>Credits</key>
+        <array>
+            <string>michale</string>
+            <string>paukrus</string>
+        </array>
+    </dict>
+</array>
+<key>_60</key>
+<array>
+    <dict>
+        <key>Answer</key>
+        <string>Rocky</string>
+        <key>Puzzle_Id</key>
+        <string>60</string>
+        <key>Hint</key>
+        <string>John G. Avildsen</string>
+        <key>Credits</key>
+        <array>
+            <string>{ pranav }</string>
+            <string>Eirik Newth</string>
+        </array>
+    </dict>
+</array>
+
+
+
+		</dict>
+	</array>
+</dict>
+</plist>

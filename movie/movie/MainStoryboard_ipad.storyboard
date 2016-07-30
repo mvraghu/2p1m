@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="4514" systemVersion="13A603" targetRuntime="iOS.CocoaTouch.iPad" propertyAccessControl="none" initialViewController="Q6T-xm-iOt">
+    <dependencies>
+        <deployment defaultVersion="1536" identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3746"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="5">
+            <objects>
+                <viewController id="2" customClass="ViewController" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="3">
+                        <rect key="frame" x="0.0" y="0.0" width="768" height="1024"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" id="bz1-Os-b1d">
+                                <rect key="frame" x="0.0" y="-32" width="768" height="516"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="aut-DU-4WV">
+                                <rect key="frame" x="309" y="707" width="151" height="44"/>
+                                <state key="normal" title="Play">
+                                    <color key="titleColor" cocoaTouchSystemColor="darkTextColor"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <segue destination="R0g-pB-chJ" kind="push" id="8El-zU-px2"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" red="0.098039217293262482" green="0.098039217293262482" blue="0.098039217293262482" alpha="1" colorSpace="calibratedRGB"/>
+                        <accessibility key="accessibilityConfiguration">
+                            <accessibilityTraits key="traits" none="YES" image="YES"/>
+                        </accessibility>
+                        <constraints>
+                            <constraint firstItem="aut-DU-4WV" firstAttribute="leading" secondItem="3" secondAttribute="leading" constant="90" id="AlC-cg-93G"/>
+                            <constraint firstItem="aut-DU-4WV" firstAttribute="top" secondItem="3" secondAttribute="top" constant="188" id="H6F-xk-pjJ"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" id="uon-rg-VVo"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="4" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2350" y="2"/>
+        </scene>
+        <!--Main View Controller-->
+        <scene sceneID="6b5-Ve-nWc">
+            <objects>
+                <viewController storyboardIdentifier="main" id="R0g-pB-chJ" customClass="MainViewController" sceneMemberID="viewController">
+                    <view key="view" opaque="NO" contentMode="scaleToFill" id="zVR-h7-Yy0">
+                        <rect key="frame" x="0.0" y="0.0" width="768" height="1024"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <imageView tag="1" contentMode="scaleToFill" image="state.jpg" id="KWd-Ef-PKC">
+                                <rect key="frame" x="46" y="95" width="300" height="350"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView tag="2" contentMode="scaleToFill" image="garden.jpg" id="Fqq-dd-66a">
+                                <rect key="frame" x="424" y="95" width="300" height="350"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="VoS-fW-YHs">
+                                <rect key="frame" x="331" y="964" width="50" height="50"/>
+                                <fontDescription key="fontDescription" name="Helvetica" family="Helvetica" pointSize="12"/>
+                                <state key="normal" title="Hint" backgroundImage="2pic1word_basemain_hint.png">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="HintEventHandler:" destination="R0g-pB-chJ" eventType="touchDown" id="Y6Z-Ps-GCG"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="kgf-cf-MI7">
+                                <rect key="frame" x="68" y="965" width="50" height="50"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                                <fontDescription key="fontDescription" name="LucidaGrande" family="Lucida Grande" pointSize="11"/>
+                                <state key="normal" title="Rm" backgroundImage="2pic1word_basemain_remove.png">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="HintEventHandler:" destination="hHb-xl-QFu" eventType="touchDown" id="lWY-fI-mEm"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="DT4-nD-7LC">
+                                <rect key="frame" x="619" y="965" width="50" height="50"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMinY="YES"/>
+                                <fontDescription key="fontDescription" name="LucidaGrande" family="Lucida Grande" pointSize="11"/>
+                                <state key="normal" title="Re" backgroundImage="2pic1word_basemain_reveal.png">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="HintEventHandler:" destination="hHb-xl-QFu" eventType="touchDown" id="Icl-RT-FCz"/>
+                                </connections>
+                            </button>
+                            <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" image="2pic1word_basemain_wallet_mod.jpg" id="Ibs-cK-gry">
+                                <rect key="frame" x="322" y="-2" width="68" height="59"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                            </imageView>
+                            <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" image="2pic1word_basemain_award_mod.png" id="r3f-J7-mLr">
+                                <rect key="frame" x="640" y="4" width="57" height="54"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="aVb-af-55o">
+                                <rect key="frame" x="13" y="8" width="49" height="54"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" backgroundImage="2pic1word_basemain_back.png">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <segue destination="2" kind="push" id="aJZ-Rg-bat"/>
+                                </connections>
+                            </button>
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" minimumFontSize="17" id="Agx-hA-aOc">
+                                <rect key="frame" x="388" y="20" width="62" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" minimumFontSize="17" id="80U-BO-OPD">
+                                <rect key="frame" x="705" y="20" width="38" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                        </subviews>
+                        <color key="backgroundColor" red="0.97647064924240112" green="0.89411771297454834" blue="0.94117653369903564" alpha="1" colorSpace="deviceRGB"/>
+                        <constraints>
+                            <constraint firstItem="Fqq-dd-66a" firstAttribute="top" secondItem="KWd-Ef-PKC" secondAttribute="top" type="default" id="FS0-vJ-2Zm"/>
+                            <constraint firstItem="Fqq-dd-66a" firstAttribute="leading" secondItem="KWd-Ef-PKC" secondAttribute="trailing" constant="8" symbolic="YES" type="default" id="clv-VY-VYN"/>
+                            <constraint firstItem="KWd-Ef-PKC" firstAttribute="top" secondItem="zVR-h7-Yy0" secondAttribute="top" constant="9" id="dI6-a7-Srj"/>
+                            <constraint firstItem="KWd-Ef-PKC" firstAttribute="leading" secondItem="zVR-h7-Yy0" secondAttribute="leading" constant="7" id="p1F-cJ-fyb"/>
+                            <constraint firstItem="Fqq-dd-66a" firstAttribute="bottom" secondItem="KWd-Ef-PKC" secondAttribute="bottom" type="default" id="uba-fR-2Xv"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" id="b8g-is-Mk5"/>
+                    <connections>
+                        <outlet property="firstPic" destination="KWd-Ef-PKC" id="2vu-oK-QjY"/>
+                        <outlet property="hint_button" destination="VoS-fW-YHs" id="giP-7W-jRs"/>
+                        <outlet property="level_text" destination="80U-BO-OPD" id="Uju-TD-eSV"/>
+                        <outlet property="remove_button" destination="kgf-cf-MI7" id="pYL-kb-nxN"/>
+                        <outlet property="reveal_button" destination="DT4-nD-7LC" id="EoP-gC-9Vr"/>
+                        <outlet property="score_text" destination="Agx-hA-aOc" id="4Vb-FO-xmm"/>
+                        <outlet property="secondPic" destination="Fqq-dd-66a" id="C4S-xk-wBg"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="hHb-xl-QFu" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-69" y="-83"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="yCq-oS-Ur7">
+            <objects>
+                <navigationController wantsFullScreenLayout="YES" modalTransitionStyle="crossDissolve" navigationBarHidden="YES" id="Q6T-xm-iOt" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="N2I-Ma-YRu">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <toolbar key="toolbar" opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="Cax-S3-88u">
+                        <rect key="frame" x="0.0" y="436" width="320" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </toolbar>
+                    <connections>
+                        <segue destination="2" kind="relationship" relationship="rootViewController" id="zmT-1j-IQQ"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="6Dz-CL-InJ" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1868" y="41"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="2pic1word_basemain_award_mod.png" width="39" height="54"/>
+        <image name="2pic1word_basemain_back.png" width="61" height="53"/>
+        <image name="2pic1word_basemain_hint.png" width="62" height="58"/>
+        <image name="2pic1word_basemain_remove.png" width="64" height="63"/>
+        <image name="2pic1word_basemain_reveal.png" width="61" height="62"/>
+        <image name="2pic1word_basemain_wallet_mod.jpg" width="55" height="55"/>
+        <image name="garden.jpg" width="320" height="240"/>
+        <image name="state.jpg" width="320" height="214"/>
+    </resources>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination"/>
+    </simulatedMetricsContainer>
+    <inferredMetricsTieBreakers>
+        <segue reference="aJZ-Rg-bat"/>
+    </inferredMetricsTieBreakers>
+</document>
