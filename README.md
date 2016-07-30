@@ -5,6 +5,6 @@
 
 This App was featured on Apple appstore in puzzle section
 
-https://itunes.apple.com/us/app/2-pix-1-movie/id766598120?mt=8
+https://itunes.apple.com/us/app/2-pix-1-movie/id766598120?mt=8 (orginal url) , app will is removed from app store
 
 This app was compatibility for iphone 5 / iphone 6 screen and developed using xcode 6
